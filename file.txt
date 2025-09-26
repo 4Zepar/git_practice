@@ -1,1 +1,3 @@
-wrote somthing on first branch
+wrote somthing on first branch - change file
+- Change file
+- bugfix file
